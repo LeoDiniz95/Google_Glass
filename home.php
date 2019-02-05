@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
 
-<head>
-
-    <meta charset="UTF-8" />
-    <title>Tudo sobre Google Glass</title>
-
-    <link rel="stylesheet" href="_css/estilo.css" />
-
-</head>
-
-<body>
-
-    <div id="interface">
-
-        <!--    CABEÇALHO    -->
-        <header id="cabecalho">
-            <hgroup>
-                <h1>Google Glass</h1>
-                <h2> A revolução do Google está chegando</h2>
-            </hgroup>
-
-            <img id="icone" src="_imagens/glass-oculos-preto-peq.png" />
-
-            <!--    MENU    -->
-            <nav id="menu">
-
-               <h1>Menu Principal</h1>
-
-               <ul>
-
-                   <li><a href="index.html">Home</a></li>
-                   <li><a href="specs.html">Especificações</a></li>
-                   <li><a href="fotos.html">Fotos</a></li>
-                   <li><a href="multimidia.html">Multimídia</a></li>
-                   <li><a href="fale-conosco.html">Fale conosco</a></li>
-                   
-               </ul>
-
-            </nav><!--      FIM DO MENU      -->
-
-        </header><!--   FIM DO CABEÇALHO   -->
         
         <section id="corpo">
             
@@ -52,7 +10,7 @@
                         <h3>Tecnologia > &nbsp;&nbsp;&nbsp;&nbsp; Inovações</h3>
                         <h1>Saiba tudo sobre o Google Glass</h1>
                         <h2>por Leonardo Diniz</h2>
-                        <h3 class="direita">Atualizado em 29/Jan/2019</h3>
+                        <h3 class="direita">Atualizado em XX/XXX/XXXX</h3>
                     </hgroup>
                     
                 </header>
@@ -162,17 +120,3 @@
             <p>O Google enfim revelou as especificações completas do Google Glass, e com ele uma surpresa ainda inédita no mercado: a gigante das buscas usará um sistema de áudio baseado na transdução por condução. Através das hastes dos óculos, o som será transmitido para o ouvido do usuário por meio de microvibrações em determinados ossos de sua cabeça, sem usar nenhum tipo de alto-falante. Além da surpresa do áudio, a tela montada a frente do olho do usuário também chamou atenção. Serão 640 x 360 pixels de resolução que, em proporção, equivaleria a um monitor de 25 polegadas de alta definição colocado a 2,5 metros de distância do espectador.</p>
             
         </aside>
-
-        <footer id="rodape">
-            
-            <p>
-                &copy;Copyright 2019 - by Leonardo Diniz <br />
-                <a href="#">Facebook</a> | <a href="https://github.com/LeoDiniz95" target="_blank">Github</a>
-            </p>
-            
-        </footer>
-
-    </div>
-</body>
-
-</html>

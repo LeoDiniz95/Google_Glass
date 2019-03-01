@@ -19,9 +19,21 @@
 
         <section id="conteudo">
             
-            <img src="_imagens/glass-esquema-marcado.jpg" />
+            <img src="_imagens/glass-esquema-marcado.jpg" usemap="#meumapa" />
             
-            <iframe id="frame-spec" name="janela" src="google-glass.php"></iframe>
+            <map name="meumapa">
+                
+                <area shape="rect" coords="179,202,270,260" href="google-glass.php#tela" target="janela" />
+                
+                <area shape="circle" coords="158,243,12" href="google-glass.php#camera" target="janela" />
+                
+                <area shape="circle" coords="76,52,12" href="google-glass.php#gadgets" target="janela" />
+                
+                <area shape="poly" coords="28,143,83,216,84,249,27,169" href="google-glass.php#sensores" target="janela" />
+                
+            </map>
+            
+            <iframe id="frame-spec" name="janela" scrolling="no" src="google-glass.php"></iframe>
             
         </section>
         

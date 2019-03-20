@@ -10,7 +10,7 @@
                         <h3>Tecnologia > &nbsp;&nbsp;&nbsp;&nbsp; Inovações</h3>
                         <h1>Saiba tudo sobre o Google Glass</h1>
                         <h2>por Leonardo Diniz</h2>
-                        <h3 class="direita">Atualizado em XX/XXX/XXXX</h3>
+                        <h3 class="direita">Atualizado em XX/XX/XXXX</h3>
                     </hgroup>
                     
                 </header>

@@ -10,7 +10,7 @@
                 <h3>Glass > Especificações</h3>
                 <h1>Raio-X no Google Glass</h1>
                 <h2>por Leonardo Diniz</h2>
-                <h3 class="direita">Atualizado em XX/XXX/XXXX</h3>
+                <h3 class="direita">Atualizado em XX/XX/XXXX</h3>
              </hgroup>
                     
         </header>

@@ -1,5 +1,4 @@
 
-        
         <section id="corpo">
             
             <article id="noticia-principal">
@@ -114,7 +113,7 @@
 
             <h2>Vídeo mais recente</h2>
 
-            [AQUI ENTRA UM VÍDEO]
+            <iframe width="340" height="200" src="https://www.youtube.com/embed/4EvNxWhskf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
             <h2>Novidades no Glass</h2>
             <p>O Google enfim revelou as especificações completas do Google Glass, e com ele uma surpresa ainda inédita no mercado: a gigante das buscas usará um sistema de áudio baseado na transdução por condução. Através das hastes dos óculos, o som será transmitido para o ouvido do usuário por meio de microvibrações em determinados ossos de sua cabeça, sem usar nenhum tipo de alto-falante. Além da surpresa do áudio, a tela montada a frente do olho do usuário também chamou atenção. Serão 640 x 360 pixels de resolução que, em proporção, equivaleria a um monitor de 25 polegadas de alta definição colocado a 2,5 metros de distância do espectador.</p>
